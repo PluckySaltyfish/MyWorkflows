@@ -4,5 +4,5 @@ Some original Alfred Workflows.
 - GETUTC
 Get the Coordinated Universal Time with formattion to your clipboard which make it easily to finish your yml date set
 
-![GETUTC](/images/getutc.png)
-download:[GETUTC](/download/GETUTC.alfredworkflow)
+![GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/screenshot/getutc.png)
+download:[GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/download/GETUTC.alfredworkflow)
