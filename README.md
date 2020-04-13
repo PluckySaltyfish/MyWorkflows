@@ -5,7 +5,11 @@ Some original Alfred Workflows.
 
 Get the Coordinated Universal Time with formattion to your clipboard which make it easily to finish your yml date set
 
-![GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/screenshot/getutc.png)
+<center><img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);zoom:50%" src="screenshot/getutc.png"><br><div style="border-bottom: 1px solid #d9d9d9;display: inline-block;color: #000;padding: 2px;">GETUTC</div></center>
+
 download:[GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/download/GETUTC.alfredworkflow)
-![IMG](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/screenshot/img.png)
-download:[GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/download/InsertImage.alfredworkflow)
+
+<center><img style="border-radius: 0.3125em;box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);zoom:50%" src="screenshot/getutc.png"><br><div style="border-bottom: 1px solid #d9d9d9;display: inline-block;color: #000;padding: 2px;">InsertImage </div></center>
+
+download:[InsertImage](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/download/InsertImage.alfredworkflow)
+
