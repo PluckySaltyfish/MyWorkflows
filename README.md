@@ -7,3 +7,5 @@ Get the Coordinated Universal Time with formattion to your clipboard which make 
 
 ![GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/screenshot/getutc.png)
 download:[GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/download/GETUTC.alfredworkflow)
+![IMG](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/screenshot/img.png)
+download:[GETUTC](https://github.com/PluckySaltyfish/MyWorkflows/raw/master/download/InsertImage.alfredworkflow)
